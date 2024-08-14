@@ -62,3 +62,58 @@ nav a{
     color: rgba(208, 207, 207, 0.881);
     font-size: 20px;
 }
+/* .view{
+    text-decoration: none;
+    color: rgb(122, 122, 122);
+    position: absolute;
+    text-align: right;
+} */
+ .grid{
+    position: relative;
+ }
+ .reno12{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+ }
+ .insidediv{
+    background-color: rgb(210, 253, 210);
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    left: 1px;
+    top: 220px;
+ }
+ .grid1{
+    display: flex;
+
+ }
+ .subgrid1{
+    flex: 50%;
+    background-color: rgb(247, 247, 247);
+    width: 100%;
+    height: 400px;
+    margin-right: 2px;
+    margin-top: 4px;
+    position: relative;
+    
+ }
+ .subgrid2{
+    flex: 50%;
+    background-color:  rgb(247, 247, 247);
+    width: 100%;
+    height: 400px;
+    margin-left: 2px;
+    margin-top: 4px;
+    position: relative;
+ }
+ .a3pro{
+    right: 20px;
+    top: 10px;
+    position: absolute;
+ }
+ .a3{
+    right: 20px;
+    top: 10px;
+    position: absolute;
+ }
