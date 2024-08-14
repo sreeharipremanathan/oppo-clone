@@ -80,9 +80,10 @@ nav a{
     background-color: rgb(210, 253, 210);
     position: absolute;
     width: 250px;
-    height: 200px;
+    height: 190px;
     left: 1px;
     top: 220px;
+    padding: 10px 15px;
  }
  .grid1{
     display: flex;
@@ -116,4 +117,39 @@ nav a{
     right: 20px;
     top: 10px;
     position: absolute;
+ }
+ .ina3pro{
+    top: 20px;
+    left: 20px;
+    position: absolute;
+ }
+ .ina3x{
+    top: 20px;
+    left: 20px;
+    position: absolute;
+ }
+ .insidea3pro{
+    background-color: rgba(233, 215, 194, 0.726);
+    position: absolute;
+    width: 250px;
+    height: 190px;
+    left: 1px;
+    top: 170px;
+    padding: 10px 15px;
+ }
+ .insidea3x{
+    background-color: rgba(233, 215, 194, 0.726);
+    position: absolute;
+    width: 250px;
+    height: 190px;
+    left: 1px;
+    top: 170px;
+    padding: 10px 15px;
+ }
+ .button a{
+    padding: 5px;
+    color: black;
+ }
+ footer{
+    background-color: black;
  }
